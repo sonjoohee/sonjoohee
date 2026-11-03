@@ -1,4 +1,4 @@
-# 👩‍💻 기획자와 동료의 언어로 소통하는 개발자, 손주희입니다.
+# 👩‍💻 프론트엔드에서 시작해 백엔드로 영역을 넓힌 개발자, 손주희입니다.
 
 프론트엔드 인턴으로 10개월간 AI SaaS 4개 서비스를 만들며, 서버 응답 때문에 화면이 멈추는 문제를 자주 겪었습니다.<br/>
 그 API를 직접 설계하고 싶어 백엔드로 영역을 넓혔고, Spring Boot 기반 MSA 프로젝트에서 상품·주문 서비스를 맡았습니다.
@@ -48,6 +48,19 @@
 **🏫 DSchool** · AI 추천 학부모 커뮤니티 (캡스톤, 2023.08 - 2024.05) · [Repository](https://github.com/sonjoohee/DSchool-AI-Community)
 
 - **Key Work**: KoNLPy와 Doc2Vec으로 게시글을 벡터화해 유사 게시글 추천, Elasticsearch 연동, React 화면 구현
+
+<br/>
+
+## 🏆 Awards & Certifications
+| Date | Title | Organizer |
+| --- | --- | --- |
+| 2025.12 | OPIc IH | ACTFL |
+| 2024.12 | SQL 개발자 (SQLD) | 한국데이터산업진흥원 |
+| 2024.06 | 캡스톤 디자인 경진대회 장려상 (DSchool) | 한양대학교 ERICA SW중심대학사업단 |
+| 2024.05 | SID 본선 진출 | 한양대학교 ERICA 창업교육센터 |
+| 2023.08 | PRE-스타트업톤 마라톤 최우수상 | 한양대학교 ERICA 창업교육센터 |
+| 2023.04 | SW 창업아이디어톤 우수상 | 한양대학교 ERICA 소프트웨어융합대학 |
+| 2022.11 | SWIM PRE-스타트업톤 최우수상 | 한양대학교 ERICA 창업교육센터 |
 
 <br/>
 
